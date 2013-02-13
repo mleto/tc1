@@ -1,0 +1,6 @@
+@font-face {
+	font-family: 'basicl';
+	src: url('basicl.ttf');
+	src: url('basicl.ttf?#iefix') format('embedded-opentype'),
+		url('basicl.ttf') format('truetype');
+}
