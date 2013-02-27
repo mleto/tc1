@@ -1,0 +1,5 @@
+The Heroku home page is organized pretty well and is very visually appealing. The images and icons compliment each other and there is certain simplicity to the site. I like how there is an explanation for exactly what the site does, making the user feel comfortable and well oriented with the purpose of the site. There is kind of a lot going on, in regards to icons and text, but it is neatly organized with a navigation bar at the top and pop-up explanations of each of the icons listed at the top of the page. 
+
+What I thought Heroku could do better on was the color choices. Since everything is a shade of purple or blue, nothing really stands out. The text could be white and it it would have helped a lot in creating contrast. I did like how the text lit up and turned a different color when users clicked on the icons at the top, however I still think that changing the default color of the text to white could help. As well as changing up the background color, because it just kind of blends in with everything else on the site. 
+
+I decided to use the single format on pages because I wanted to make it as simple as possible. 
