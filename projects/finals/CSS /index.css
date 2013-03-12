@@ -1,0 +1,101 @@
+@charset "UTF-8";
+@import url("basicl/stylesheet.css");
+/* CSS Document */
+
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+width:1000px;
+margin: 1.5em auto;
+height:auto;
+border-style: none;
+background-color:#FFFFFF;
+}
+
+html {
+	background-color: white;
+}
+
+h1 {
+	font-family: basicl;
+	font-size: 30px;
+	text-align: left;
+	font-style: italic;
+	font-weight: lighter;
+	font-variant: small-caps;
+}
+
+h2 {
+	font-family: basicl;
+	font-size: 30px;
+	font-weight:lighter;
+	font-variant:small-caps;
+	font-color: lightgrey;
+	padding-left:250px;
+	padding-right:250px;
+}
+
+p {
+	margin: 25x;
+	width: 900px;
+	color: #000;
+	font-size: 12px;
+	font-family: basicl;
+	text-align: left;
+}
+
+#main {
+	font-family:basicl;
+
+}
+
+#sidebar {	
+padding-bottom: 500px;
+}
+
+#nav li{
+	list-style: none;
+	width: 300px;
+	padding-left:55px;
+	padding-right:25px;
+	border-style: none;
+	font-size:30px;
+	font-family: basicl;
+	font-weight: lighter;
+	font-variant:small-caps;
+	color: #000
+}
+
+#nav {
+	text-align: center;
+}
+
+#nav li {
+  	display: inline;
+}
+
+a:link {
+	COLOR: #000000;
+	text-decoration: none;
+}
+
+a:hover {
+	COLOR: #000000;
+	text-decoration: underline;
+}
+
+a:visited {
+	COLOR: #000000;
+	text-decoration: none;
+}
+
+a:active {
+	color: #000000;
+}
+
+img.floatLeft { 
+    float: left; 
+    margin: 40px; 
+}
